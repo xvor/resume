@@ -1,59 +1,82 @@
-# Resume
-
-Vijay Raj 
-CIPT, CISSP
+# Vijay Raj
+📍 Bangalore, India  
 
 ---
+
 ## Summary
 
->  19+ years driving global Privacy & Security strategy; building teams and programs, scaling governance, and embedding privacy-by-design in high-impact markets. Proven leader in risk and product governance, translating risk into secure-by-design programs that earn executive and regulatory trust.
+I build **AI governance platforms and control planes** that embed privacy and risk directly into product and engineering workflows—turning compliance into **scalable infrastructure that accelerates AI systems safely**.
+
+---
+
+## Core Expertise
+
+AI Governance & Responsible AI • Privacy Engineering • Trust & Safety Platforms • Risk & Compliance Systems • AI/ML Lifecycle Controls • RAG & LLM Systems • Productizing Compliance (APIs, Decision Systems) • Regulatory Strategy (Payments, Data Protection) • Org Building & Leadership
+
+---
 
 ## Experience
 
-#### Google, Manager, Staff Technical Program Manager (July 2022 - Present) | Bangalore, Karnataka								          
-* Built and scaled a cross-functional privacy org of 9 (Privacy Engineers, TPMs, SWE) in India, establishing a strategic execution hub for AI privacy governance and infra privacy engineering; Drove organizational health and career growth while aligning team charters to global privacy priorities, ensuring long-term program durability and leadership bench strength.
+### Google — Manager, Staff Technical Program Manager  
+*Jul 2022 – Present | Bangalore, India*
 
-* Scaled the AI privacy governance program, embedding privacy-by-design into ML development and aligning with global frameworks. Influenced VP-level stakeholders to adopt unified risk processes, institutionalizing a system reviewing 150+ high-risk models quarterly, accelerating compliant launches by 40% and reducing regulatory exposure
+- **Defined and scaled Google-wide AI Privacy Governance as a control plane**, building a cross-functional org (Privacy Eng, TPM, SWE) from **0→1**; enabled privacy-by-design across the ML lifecycle, supporting **150+ high-risk model reviews/quarter** and improving compliant launch velocity by **40%**.  
+- **Drove VP-level alignment to unify AI risk decisioning**, replacing fragmented processes with a **globally adopted, auditable governance system** and extending coverage to emerging AI risks beyond existing policy frameworks.  
+- Built and launched an **AI Privacy Consult Agent (RAG-based)** as a self-service platform capability, enabling **scalable, high-factuality privacy guidance** and reducing dependency on manual expert reviews.  
 
-* Established a measurable process to map regulatory requirements into technical deliverables by categorizing user journeys based on criticality, redesigning Notice & Consent flows, and implementing Business Continuity testing for Google Pay India. Drove cross-functional execution with Product, Legal, Compliance, and Engineering to validate resiliency of critical user journeys, ensuring regulatory readiness and uninterrupted service availability.
+- **Owned data protection and regulatory compliance for Google Pay India (TPAP / Payment Aggregator license)**, ensuring uninterrupted operations and revenue continuity; successfully navigated **15+ audits with zero major findings**.  
+- Translated regulatory requirements into **platformized controls**, including risk-tiered user journeys and redesigned Notice & Consent systems; led cross-functional validation of resiliency via Business Continuity testing.  
 
-* As CISO for Google Pay India (GIDS), I drove APAC data protection and compliance, navigating 15+ annual audits with zero major findings. I established scalable SOPs and governance, leading cross-functional teams to launch secure, regulator-aligned merchant onboarding solutions that strengthened compliance and market credibility.
+- Led platform-level fraud prevention (Android, PM scope), delivering **OS-level APIs for screen-share detection**, enabling downstream applications to mitigate emerging fraud vectors.
 
-* Picked an additional 20% Product Manager role in the Android team, to lead fraud detection initiatives, delivering APIs for strengthened consumer protection in the latest version of the software.
+---
 
-### Prior Work Experience (reverse chronological order)
+### Informatica — Director, Security  
+*May 2019 – Jul 2022*
 
-#### Informatica, Director of Security (May 2019 - July 2022)
+- Scaled customer trust and security assurance as a productized capability, resolving **150+ quarterly security reviews** and reducing turnaround time from **15 days → 48 hours**, accelerating enterprise deal cycles.  
+- Defined and operationalized **third-party risk quantification (Trust Score)**, delivering executive-level insights to CIO/staff and driving enterprise-wide prioritization of supplier risks.  
+- Built and led a **25+ member org**, establishing operating models and cross-functional alignment across Security, Product, Legal, and Sales.
 
-* Along with being the India Site Leader for Global Security Office teams, my role included managing the trust and supplier risk management programs, driving security effectiveness, and assurance initiatives for customers and suppliers.
-* Led and scaled Customer Security Sales Enablement, resolving 150+ quarterly security inquiries. Reduced assurance turnaround from 15 days to 48 hours via GTM strategies (SIG/CAIQ, whitepapers), accelerating deals and boosting trust. Built cross-functional alignment with Product Counsel, Sales Enablement, Product Privacy, and Security leadership, institutionalizing processes and influencing strategy.
-* Developed and operationalized the ‘Trust Score’ methodology to quantify third-party security risks, and established an annual Supplier Risk Report delivered to the CIO and executive leadership team, driving enterprise-wide visibility into supplier security posture, key risks, and strategic mitigation priorities.
-* Built and led high-performing teams, providing mentorship and guidance, managing performance reviews for around 25 Analysts and Program Managers, and serving as the escalation point for security teams in India.				                             
+---
 
-#### FICO, Manager - Cyber Security  (Feb 2013 - May 2019)
+### FICO — Manager, Cyber Security  
+*Feb 2013 – May 2019*
 
-Managed ISO, PCI, and SOC 2 commercial audits to enhance readiness and mitigate risk for FICO products and enterprise clients.
+- Led enterprise audit and certification programs (**ISO, SOC 2, PCI**), improving audit readiness and reducing risk through scalable control validation systems.  
+- Operationalized a risk management program, evaluating **150+ exceptions** and driving remediation across Engineering and Product teams.
 
-* Ensured audit readiness and timely resolution of findings by supporting managers and teams company-wide, leading to increased productivity through a quarterly security audit evidence program.
-* Managed ISO and SOC2 certification and audits, conducting scoping exercises, stakeholder management, and documentation of gaps and risks, resulting in improved process maturity.
-* Implemented a measurable risk program, analyzing and making recommendations on 150 exceptions, collaborating with stakeholders across engineering and product, establishing timelines, and supporting policies. 
+---
 
-#### Texas Instruments, Systems Analyst (May 2009 - Feb 2013)
-	                                 
-* Managed Corporate Risk Assessment plan, identifying systemic issues and recommending fixes for a robust ITGC framework. Designed governance policies for endpoint security configurations and antivirus solutions.
-* Oversaw endpoint security controls, including patch deployments, disk encryption, and AV software, while preparing compliance reports and dashboards.
-* Supported acquisitions, technology upgrades, and migrations by ensuring implementation and maintenance of security controls throughout the process.
+### Texas Instruments — Systems Analyst  
+*May 2009 – Feb 2013*
 
-#### Satyam Computers, Setup Developer (Oct 2005-May 2009) 	
-			 	    	     
-* Ensured application packaging quality and adherence to established guidelines through conducting quality checks and maintaining standards.
-* Implemented a comprehensive plan to establish baseline configurations, address application compatibility issues, develop a virtualization strategy, and ensure browser support for all applications.
+- Strengthened enterprise ITGC and endpoint security through risk assessments and control implementation across patching, encryption, and endpoint protection.
 
-## Education
+---
 
-Bachelors of Engineering; Information Systems, with Distinction. June 2005,  72% - VTU, Karnataka, India
+### Satyam Computer Services — Setup Developer  
+*Oct 2005 – May 2009*
 
-## Certifications
+- Delivered application packaging and endpoint standardization, improving compatibility and enterprise system readiness.
 
-* Certified Information Privacy Technologist (CIPT) - 2024 - Present
-* Certified Information Systems Security Professional (CISSP) - 2016 - Present
+---
+
+## Education & Certifications
+
+- B.E., Information Systems (Distinction) — Visvesvaraya Technological University  
+- Certified Information Privacy Technologist (CIPT), 2024–Present  
+- Certified Information Systems Security Professional (CISSP), 2016–Present  
+
+---
+
+## Selected AI Work (In Progress)
+
+- Building an **AI Governance Control Plane** using LLMs (Claude + RAG), enabling structured, policy-grounded risk classification and decisioning for AI/ML use cases.  
+- Focused on **retrieval, guardrails, and evaluation frameworks** to ensure high-factuality outputs for sensitive privacy workflows.
+
+---
+
+## Interests
+
+AI Governance • Responsible AI • Building scalable trust systems • Productizing compliance
